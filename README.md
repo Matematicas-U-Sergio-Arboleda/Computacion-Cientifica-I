@@ -14,7 +14,7 @@ b. [Estructura de Datos.](Estructura_de_datos.ipynb)
 
 c. [Tipos de datos.](Tipos_de_datos.ipynb)
 
-d. Operadores aritméticos y lógicos
+d. [Operadores aritméticos y lógicos](Operadores_aritmeticos_logicos.ipynb)
 
 e. Funciones.
 
