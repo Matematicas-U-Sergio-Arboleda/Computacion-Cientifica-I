@@ -16,7 +16,7 @@ c. [Tipos de datos.](Tipos_de_datos.ipynb)
 
 d. [Operadores aritméticos y lógicos](Operadores_aritmeticos_logicos.ipynb)
 
-e. Funciones.
+e. [Funciones.](Funciones_en_python.ipynb)
 
 f. Control de flujo (condicionales y bucles).
 
