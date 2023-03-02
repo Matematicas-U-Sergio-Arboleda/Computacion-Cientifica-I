@@ -12,7 +12,7 @@ a. [Introducción a Python](Introduction_to_Python.ipynb)
 
 b. [Estructura de Datos.](Estructura_de_datos.ipynb)
 
-c. Tipos de datos.
+c. [Tipos de datos.](Tipos_de_datos.ipynb)
 
 d. Operadores aritméticos y lógicos
 
