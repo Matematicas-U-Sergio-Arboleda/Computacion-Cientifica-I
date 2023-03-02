@@ -18,7 +18,7 @@ d. [Operadores aritméticos y lógicos](Operadores_aritmeticos_logicos.ipynb)
 
 e. [Funciones.](Funciones_en_python.ipynb)
 
-f. Control de flujo (condicionales y bucles).
+f. [Control de flujo (condicionales y bucles).](Estructuras_Control.ipynb)
 
 **2. Programación orientada a objetos.**
 
