@@ -10,11 +10,11 @@ En este repositorio se abordaran los siguientes temas con ejemplos desarrollados
 
 a. [Introducción a Python](Introduction_to_Python.ipynb)
 
-b. Estructura de Datos.
+b. [Estructura de Datos.](Estructura_de_datos.ipynb)
 
 c. Tipos de datos.
 
-d. Operadores aritméticos y lógicos.
+d. Operadores aritméticos y lógicos
 
 e. Funciones.
 
