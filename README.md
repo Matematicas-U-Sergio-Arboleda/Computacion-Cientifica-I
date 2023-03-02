@@ -8,7 +8,7 @@ En este repositorio se abordaran los siguientes temas con ejemplos desarrollados
 
 **1. Introducción a la programación**
 
-a. [Introducción a Python](Introduction_to_python.ipynb)
+a. [Introducción a Python](Introduction_to_Python.ipynb)
 
 b. Estructura de Datos.
 
